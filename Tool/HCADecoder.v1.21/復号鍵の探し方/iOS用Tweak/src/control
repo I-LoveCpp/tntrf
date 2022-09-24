@@ -1,0 +1,9 @@
+Package: net.2ch.hca
+Name: HCA
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: HCA key
+Maintainer: CRI
+Author: CRI
+Section: Tweaks
